@@ -1,0 +1,17 @@
+reps : 1
+threads:
+  CRKJ: 16
+  CRKJS: 16
+  CrkJoin: 16
+  RHO: 3
+  MCJoin : 1
+  PaMeCo: 3
+  BHJ : 2
+  NL : 16
+modes:
+  - native
+  - sgx
+memory:
+  MCJoin: 275
+  PaMeCo: 90
+experiment: 0

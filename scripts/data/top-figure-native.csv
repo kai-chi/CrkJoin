@@ -1,0 +1,6 @@
+alg,dataset,queries,delay,throughput,time
+TinyDB,A,8,0,0.0002,0
+BHJ,A,8,0,3.8185,0
+MCJoin,A,8,0,28.82,0
+PaMeCo,A,8,0,11.01,0
+RHO,A,8,0,59.96,0
